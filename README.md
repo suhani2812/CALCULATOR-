@@ -1,0 +1,6 @@
+# CALCULATOR-
+MADE A CALCULATOR USING HTML,CSS,JS
+
+
+SCREENSHOT :
+![image](https://github.com/suhani2812/CALCULATOR-/assets/97598197/315e4b51-24af-467a-93e6-3d0f101daf55)
